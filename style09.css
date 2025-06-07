@@ -1,0 +1,33 @@
+caption{
+color: green;
+text-transform: uppercase /*Convierte a mayusculas*/
+}
+caption, th{
+font-size: 28px;
+font-weight: bold; /*Muestra la fuente en negrita*/
+}
+th{
+color: #d8cc24; /*El color en formato hexadecimal*/
+}
+h1{
+color: #067915;
+}
+h2{
+color: #d8cc24;
+}
+h3{
+color: #da5c5cd2;
+}
+table{
+border: 1px solid orange; /*Parámetros: grosor, estilo y color
+
+de border*/
+
+border-collapse: collapse; /*los bordes se juntan*/
+}
+th{
+border: 1px solid orange;
+}
+td{
+border: 1px solid orange;
+}
